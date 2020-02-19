@@ -3,8 +3,11 @@ https://www.w3schools.com/html/html_formatting.asp
 
 
 
-<p><b>This text is bold</b></p>
-<p><i>This text is italic</i></p>
+<p><b>hier ist dein Text.</b></p>
+
+oder
+
+<p><i>hier ist dein Text (italic)</i></p>
 <p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
 
 
