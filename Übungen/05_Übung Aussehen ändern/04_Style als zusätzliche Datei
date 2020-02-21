@@ -1,0 +1,25 @@
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Titel</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <style>
+
+    <!-- ist als Datei eingebunden -->
+
+  </style>
+  
+  <body>

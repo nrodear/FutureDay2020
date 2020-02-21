@@ -1,0 +1,30 @@
+
+
+
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
+
+
+
+------------------
+
+
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Titel</title>
+  </head>
+  
+  
+  <body>
+
+    hier ist dein Text.
+
+    <img src="hunde.jpg"Smiley" height="42" width="42">
+
+    <img src="hund.jpg"Smiley" height="100" width="100">
+
+  </body>
+</html>

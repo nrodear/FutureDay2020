@@ -1,0 +1,35 @@
+
+
+
+  <style>
+    body {
+      background-Color: yellow;
+    }
+  </style>
+
+
+
+---------------------
+
+
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Titel</title>
+  </head>
+  
+  <style>
+    body {
+      background-Color: yellow;
+    }
+  </style>
+
+  
+  <body>
+
+    hier ist dein Text.
+
+  </body>
+</html>

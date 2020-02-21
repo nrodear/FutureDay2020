@@ -1,0 +1,31 @@
+
+
+
+
+  <style>
+    body {
+        
+        background: url(hunde.jpg)  220px 100px no-repeat;
+        
+    }
+  </style>
+
+
+
+------------------
+
+oder
+
+------------------
+
+  <style>
+    body {
+        height: 500px;
+        
+        background: url(hunde.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+  </style>
+
+------------------
