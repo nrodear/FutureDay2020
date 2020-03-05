@@ -3,12 +3,18 @@
 
 Was mache ich heute hier?
 
+    * Spaß haben auf der Arbeit? mal sehen.
+    * Zeitplan für hute ansehen 
+    * Einblicken in die Softwareentwicklung bekommen
+
 
 Eine Internetseite erstellen, so wie Sie bei Google zu sehen ist
 
 
-Wo finde ich HTML?
 Was kann Html?
+
+Wo finde ich HTML?
+
 Warum will ich das?
 
 
